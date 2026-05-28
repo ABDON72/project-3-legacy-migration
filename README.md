@@ -1,4 +1,4 @@
-# Project 3: Migrating Legacy System to AWS
+#: Migrating Legacy System to AWS
 
 ## Overview
 This project demonstrates migrating a company's 
